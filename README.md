@@ -1,4 +1,5 @@
 # hello-world
 Tutorial
 
-This is just a test to comprehend how to use gitHub.
+Hey there is the final product of:
+HELLO WORLD
